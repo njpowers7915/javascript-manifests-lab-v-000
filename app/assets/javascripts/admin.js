@@ -1,2 +1,2 @@
-//= hello_world
-//= main
+//= require hello_world
+//= require main
